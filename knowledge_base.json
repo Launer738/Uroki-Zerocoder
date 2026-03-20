@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Apple Watch Ultra 2",
+      "category": "smartwatch",
+      "price": "799 USD",
+      "features": [
+        "Яркий экран",
+        "GPS",
+        "Отслеживание активности"
+      ]
+    },
+    {
+      "name": "AirPods 4",
+      "category": "earbuds",
+      "price": "179 USD",
+      "features": [
+        "Легкие",
+        "Хороший звук",
+        "Подходят для повседневного использования"
+      ]
+    },
+    {
+      "name": "AirPods Pro 3",
+      "category": "earbuds",
+      "price": "299 USD",
+      "features": [
+        "Активное шумоподавление",
+        "Лучше для шумных мест",
+        "Плотная посадка"
+      ]
+    }
+  ]
+}
